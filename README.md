@@ -91,7 +91,7 @@ The dataset was created innovatively for this project.
 This section showcases the model's performance and output.
 
 **Sample Detection:**
-![Wind Turbine Blade Damage Detection](runs/detect/predict/M1.jpg)
+![Wind Turbine Blade Damage Detection](runs/detect/predict/M1.png)
 *Example of a crack detected on a turbine blade by the model.*
 
 **Performance Metrics:**
