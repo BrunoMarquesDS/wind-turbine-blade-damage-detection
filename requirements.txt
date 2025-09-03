@@ -1,0 +1,7 @@
+ultralytics
+torch
+opencv-python
+numpy
+pandas
+seaborn
+roboflow
