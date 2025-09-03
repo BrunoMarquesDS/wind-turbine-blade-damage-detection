@@ -26,7 +26,7 @@ The maintenance of wind turbines is a critical and expensive operation. Manual i
 ## 🖼️ Dataset Creation and Preprocessing
 The dataset was created innovatively for this project.
 1.  **Damage Creation:** Small wind turbines were used as a model. Damage such as cracks and chips was simulated using **stickers** applied directly to the blades.
-2.  **Image Capture:** Hundreds of high-quality photographs of the mini-turbines were taken.
+2.  **Image Capture:** Photographs of the mini-turbines were taken.
 3.  **Annotation and Preprocessing:** The **Roboflow** platform was used to annotate the damage on each image and perform preprocessing. **Data augmentation techniques**, such as **saturation, brightness, and rotation**, were applied to diversify the dataset and improve the model's robustness.
 
 ---
